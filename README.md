@@ -18,8 +18,14 @@
 - ⚡ Fun fact: ...
 -->
 ## 🌱 Sobre mim
-Profissional atuando na área de TI hospitalar, enstusiasta da área de dados e amante da linha de comando.
-
+Atuo como Coordenador do Departamento de tecnologia da Santa Casa de Mococa, buscando otimizar processos e transforma-los em resultados.
+## 🔭 Interesses e competências
+* Governança de TI
+* Business Intelligence
+* Engenharia de dados
+* Servidores
+* Ferramentas CLI
+  
 ## 🧰 Ferramentas e Tecnologias
 
 
