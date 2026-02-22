@@ -6,9 +6,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Assis03&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Assis03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-           
-          
-  🔭 MIGRANDO PARA O CODEBERG...
+                  
+ -🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,6 +16,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Migrando repositórios para o Codeberg 🔭
+
 ## 🌱 Sobre mim
 Atuo como Coordenador do Departamento de tecnologia da Santa Casa de Mococa, buscando otimizar processos e transforma-los em resultados.
 ## 🔭 Interesses e competências
