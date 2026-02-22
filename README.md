@@ -8,7 +8,7 @@
 </div>
            
           
-- 🔭 I’m currently working on ...
+- 🔭 MIGRANDO PARA O CODEBERG...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -25,6 +25,7 @@ Atuo como Coordenador do Departamento de tecnologia da Santa Casa de Mococa, bus
 * Engenharia de dados
 * Servidores
 * Ferramentas CLI
+* Linux
   
 ## 🧰 Ferramentas e Tecnologias
 
